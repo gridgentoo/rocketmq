@@ -1,3 +1,5 @@
+Оригинальный репозиторий RocketMQ  
+https://github.com/apache/rocketmq   
 
 Анализ кода и Реверс инжениринг : RocketMQ  
 https://drive.google.com/drive/folders/1zOas1GYMu7nJ-L5O9oniPtf2g2XAG23U   
